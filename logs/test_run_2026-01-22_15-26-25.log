@@ -1,0 +1,7 @@
+2026-01-22 15:26:25,936 | INFO | TEST START: launching browser
+2026-01-22 15:26:28,661 | INFO | TC-LOGIN-001: Open login page
+2026-01-22 15:26:31,041 | INFO | TC-LOGIN-001: Enter username
+2026-01-22 15:26:31,135 | INFO | TC-LOGIN-001: Enter password
+2026-01-22 15:26:31,219 | INFO | TC-LOGIN-001: Click Login
+2026-01-22 15:26:31,315 | INFO | TC-LOGIN-001: Validate success message
+2026-01-22 15:26:31,777 | INFO | TEST END: closing browser

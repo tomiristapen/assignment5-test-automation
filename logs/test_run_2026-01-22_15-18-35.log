@@ -1,0 +1,28 @@
+2026-01-22 15:18:35,799 | INFO | TEST START: launching browser
+2026-01-22 15:18:39,386 | INFO | TC-LOGIN-001: Open login page
+2026-01-22 15:18:41,767 | INFO | TC-LOGIN-001: Enter username
+2026-01-22 15:18:41,873 | INFO | TC-LOGIN-001: Enter password
+2026-01-22 15:18:41,957 | INFO | TC-LOGIN-001: Click Login
+2026-01-22 15:18:42,464 | INFO | TC-LOGIN-001: Validate success message
+2026-01-22 15:18:42,515 | INFO | TEST END: closing browser
+2026-01-22 15:18:44,802 | INFO | TEST START: launching browser
+2026-01-22 15:18:47,689 | INFO | TC-DOWNLOAD-001: Open download page
+2026-01-22 15:18:49,855 | INFO | TC-DOWNLOAD-001: Find file link: SomeFile.txt
+2026-01-22 15:18:50,009 | INFO | TC-DOWNLOAD-001: Click file link: SomeFile.txt
+2026-01-22 15:18:52,321 | INFO | TC-DOWNLOAD-001: File downloaded: SomeFile.txt
+2026-01-22 15:18:52,321 | INFO | TC-DOWNLOAD-001: Download initiated successfully
+2026-01-22 15:18:52,322 | INFO | TEST END: closing browser
+2026-01-22 15:18:54,577 | INFO | TEST START: launching browser
+2026-01-22 15:18:57,053 | INFO | TC-ADDREMOVE-001: Open add/remove elements page
+2026-01-22 15:18:59,286 | INFO | TC-ADDREMOVE-001: Click Add Element
+2026-01-22 15:18:59,398 | INFO | TC-ADDREMOVE-001: Verify Delete button appears
+2026-01-22 15:18:59,410 | INFO | TC-ADDREMOVE-001: Click Delete
+2026-01-22 15:18:59,473 | INFO | TC-ADDREMOVE-001: Verify element removed
+2026-01-22 15:19:04,487 | INFO | TEST END: closing browser
+2026-01-22 15:19:06,681 | INFO | TEST START: launching browser
+2026-01-22 15:19:09,095 | INFO | TC-FORGOTPASS-001: Open forgot password page
+2026-01-22 15:19:11,304 | INFO | TC-FORGOTPASS-001: Enter email
+2026-01-22 15:19:11,435 | INFO | TC-FORGOTPASS-001: Click Retrieve password
+2026-01-22 15:19:11,869 | INFO | TC-FORGOTPASS-001: Validate confirmation message
+2026-01-22 15:19:12,197 | ERROR | TEST FAILED: screenshot saved -> screenshots\test_forgot_password_confirmation_message_2026-01-22_15-19-12.png
+2026-01-22 15:19:12,198 | INFO | TEST END: closing browser

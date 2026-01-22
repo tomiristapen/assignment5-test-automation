@@ -10,7 +10,6 @@ ENV/
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
@@ -33,13 +32,6 @@ htmlcov/
 .idea/
 *.swp
 *.swo
-
-# Reports and logs
-reports/
-logs/
-
-# Screenshots
-screenshots/
 
 # OS
 .DS_Store
